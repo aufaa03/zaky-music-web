@@ -34,6 +34,10 @@ export const metadata = {
     locale: 'id_ID',
     type: 'website',
   },
+
+  verification: {
+    google: 's6uN85qVgPqdK9nJG-kc1WmWqgmbi9E158DNLjOmwFU',
+  },
 };
 
 export default function RootLayout({ children }) {
