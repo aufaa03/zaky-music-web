@@ -152,7 +152,7 @@ export default async function BlogPostPage({ params }) {
                 Jangan lupa, urusan alat pesta serahkan pada ahlinya. Konsultasikan kebutuhan acaramu sekarang.
               </p>
               <a 
-                href="https://wa.me/6281234567890" 
+                href="https://wa.me/6285226770959" 
                 className="inline-block bg-green-500 text-white font-bold px-8 py-4 rounded-full hover:bg-green-600 hover:shadow-lg transition transform hover:-translate-y-1"
               >
                 Chat Zaky Musik di WhatsApp 💬

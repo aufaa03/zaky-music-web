@@ -18,7 +18,7 @@ const outfit = Outfit({
   variable: "--font-outfit", // Bikin variabel CSS
 });
 export const metadata = {
-  metadataBase: new URL('https://zaky-musik.vercel.app'), // Ganti nama link nanti pas udah deploy
+  metadataBase: new URL('https://zaky-music.vercel.app'), // Ganti nama link nanti pas udah deploy
   title: {
     default: "Zaky Musik - Sewa Sound System & Layos Pemalang",
     template: "%s | Zaky Musik"
@@ -29,7 +29,7 @@ export const metadata = {
   openGraph: {
     title: "Zaky Musik Pemalang - Solusi Hajatan Lengkap",
     description: "Sound System, Tenda, Panggung & Alat Dapur. Nego Sampai Jadi!",
-    url: 'https://zaky-musik.vercel.app',
+    url: 'https://zaky-music.vercel.app',
     siteName: 'Zaky Musik',
     locale: 'id_ID',
     type: 'website',

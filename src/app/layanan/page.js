@@ -43,7 +43,7 @@ export default function Layanan() {
               </ul>
             </div>
             <div className="px-6 pb-6">
-              <a href="https://wa.me/6281234567890?text=Tanya%20Sound" className="block w-full bg-green-600 text-white text-center font-bold py-2 rounded hover:bg-green-700 transition">Cek Spek via WA</a>
+              <a href="https://wa.me/6285226770959?text=Tanya%20Sound" className="block w-full bg-green-600 text-white text-center font-bold py-2 rounded hover:bg-green-700 transition">Cek Spek via WA</a>
             </div>
           </div>
 
@@ -65,7 +65,7 @@ export default function Layanan() {
               </ul>
             </div>
             <div className="px-6 pb-6">
-              <a href="https://wa.me/6281234567890?text=Tanya%20Tenda" className="block w-full bg-green-600 text-white text-center font-bold py-2 rounded hover:bg-green-700 transition">Tanya Ukuran via WA</a>
+              <a href="https://wa.me/6285226770959?text=Tanya%20Tenda" className="block w-full bg-green-600 text-white text-center font-bold py-2 rounded hover:bg-green-700 transition">Tanya Ukuran via WA</a>
             </div>
           </div>
 
@@ -87,7 +87,7 @@ export default function Layanan() {
               </ul>
             </div>
             <div className="px-6 pb-6">
-              <a href="https://wa.me/6281234567890?text=Tanya%20Alat%20Dapur" className="block w-full bg-orange-600 text-white text-center font-bold py-2 rounded hover:bg-orange-700 transition">List Harga Sewa via WA</a>
+              <a href="https://wa.me/6285226770959?text=Tanya%20Alat%20Dapur" className="block w-full bg-orange-600 text-white text-center font-bold py-2 rounded hover:bg-orange-700 transition">List Harga Sewa via WA</a>
             </div>
           </div>
 
@@ -109,7 +109,7 @@ export default function Layanan() {
               </ul>
             </div>
             <div className="px-6 pb-6">
-              <a href="https://wa.me/6281234567890?text=Tanya%20Perlengkapan" className="block w-full bg-gray-700 text-white text-center font-bold py-2 rounded hover:bg-gray-800 transition">Cek Ketersediaan via WA</a>
+              <a href="https://wa.me/6285226770959?text=Tanya%20Perlengkapan" className="block w-full bg-gray-700 text-white text-center font-bold py-2 rounded hover:bg-gray-800 transition">Cek Ketersediaan via WA</a>
             </div>
           </div>
 
