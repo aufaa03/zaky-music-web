@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import { Outfit } from "next/font/google";
 import "./globals.css";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 const geistSans = Geist({
@@ -52,6 +53,7 @@ export default function RootLayout({ children }) {
 
         {/* Nanti Footer taruh sini */}
         <Footer/>
+        <SpeedInsights />
       </body>
     </html>
   );
