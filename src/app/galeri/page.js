@@ -3,6 +3,7 @@ import { client } from "@/lib/contentfulClient";
 import Image from "next/image";
 import { documentToReactComponents } from '@contentful/rich-text-react-renderer';
 
+export const revalidate = 0; // Artinya: Selalu cek data terbaru (Real-time)
 async function getGaleriItems() {
   const response = await client.getEntries({
     content_type: 'galeriItem', 

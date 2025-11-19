@@ -3,11 +3,12 @@ import { client } from "@/lib/contentfulClient";
 import Link from "next/link";
 import Image from "next/image";
 
+export const revalidate = 0; // Selalu cek data terbaru (Real-time)
 // Fungsi untuk mengambil data dari Contentful
 async function getBlogPosts() {
   const response = await client.getEntries({
     content_type: 'blogPost', // Pastikan ID ini SAMA dengan yang kamu buat di Contentful
-    // order: '-sys.createdAt' // (Opsional) Urutkan dari yang terbaru
+     order: '-sys.createdAt', // (Opsional) Urutkan dari yang terbaru
   });
 
   return response.items;
